@@ -3,8 +3,8 @@ import { useRouter } from 'next/router';
 
 // Change these default meta
 const defaultMeta = {
-  title: 'Tessera Coding Challenge',
-  siteName: 'Tessera Coding Challenge',
+  title: 'dai tx list',
+  siteName: 'dai tx list',
   description:
     'A starter for Next.js, Tailwind CSS, and TypeScript with Absolute Import, Seo, Link component, pre-configured with Husky',
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
