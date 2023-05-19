@@ -10,7 +10,6 @@ import useTxlist from '@/hooks/use-txlist';
 
 import Input from '@/components/input/Input';
 import Layout from '@/components/layout/Layout';
-import UnderlineLink from '@/components/links/UnderlineLink';
 import Seo from '@/components/Seo';
 
 import { useEventContext } from '@/context/event';
