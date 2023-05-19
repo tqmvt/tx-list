@@ -250,10 +250,7 @@ export default function HomePage() {
             </div>
 
             <footer className='my-10 text-gray-700'>
-              © {new Date().getFullYear()} By{' '}
-              <UnderlineLink href='https://github.com/launchdex'>
-                launchdex
-              </UnderlineLink>
+              © {new Date().getFullYear()}
             </footer>
           </div>
         </section>
